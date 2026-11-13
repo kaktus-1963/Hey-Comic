@@ -200,4 +200,4 @@ This repository serves as the official landing page for Hey Comic. The software 
 **Get the most recent version of Hey Comic today!**
 
 ---
-**Last updated:** 2026-11-13 05:05:42 UTC
+**Last updated:** 2026-11-13 13:55:53 UTC
